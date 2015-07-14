@@ -1,0 +1,33 @@
+.bodytext {
+	FONT-SIZE: 13px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.bodytitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.subnav {
+	FONT-SIZE: 10px; CURSOR: hand; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.subnavtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica
+}
+A {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
